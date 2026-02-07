@@ -1,0 +1,2 @@
+APN: internet.beeline.ru
+APN type: default

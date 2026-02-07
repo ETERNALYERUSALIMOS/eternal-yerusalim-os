@@ -1,0 +1,3 @@
+SocksPort 9050
+ExitNodes {ru}
+StrictNodes 1
