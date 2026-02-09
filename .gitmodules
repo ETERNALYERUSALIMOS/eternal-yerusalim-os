@@ -1,0 +1,6 @@
+[submodule "IDEAL-OS"]
+	path = IDEAL-OS
+	url = https://github.com/ETERNALYERUSALIM/IDEAL-OS
+[submodule "Skafandr-4.1"]
+	path = Skafandr-4.1
+	url = https://github.com/ETERNALYERUSALIM/Skafandr-4.1
